@@ -1,5 +1,5 @@
 # Crypto
-## A nano library in C++ made for quick encryption and decryption
+## A nano library in C++ made for quick demonstration of encryption and decryption
 
 This library illustrates symmetric key encryption and decryption in its barebones. For usage, include crypto.h and use following functions. All functions are extension of std namespace.
 
